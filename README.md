@@ -16,6 +16,6 @@ Este projeto simula um sistema bancário simples utilizando Programação Orient
 Execute o arquivo `main.py` para iniciar o sistema.
 
 ```bash
-python main.py
+python src/main.py
 ```
 
